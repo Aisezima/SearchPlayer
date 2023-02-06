@@ -1,7 +1,10 @@
 .App {
-  text-align: center;
   width: 1440px;
   margin: 0 auto;
+  background-image: url('../src/assests/images/bg.png');
+  background-color: rgba(0, 0, 0, 0.948);
+  
+
 }
 
 .App-logo {

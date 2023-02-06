@@ -17,11 +17,10 @@ const Header = () => {
             
 
             <div className={classes.container}>
-                <img src={instagram} alt="instagram" />
-                <img  src={vcontacte} alt="vcontacte" />
-                <img src={facebook} alt="facebook" />
+                <a href="https://learn.javascript.ru/"><img src={instagram} alt="instagram" /></a>
+              <a href="  https://vk.com/"><img src={vcontacte} alt="vcontacte" /> </a>   
+             <a href=" https://www.facebook.com/">  <img src={facebook} alt="facebook" /></a>   
             </div>
-            
         </header>
     )
 }
